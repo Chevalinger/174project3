@@ -1,0 +1,118 @@
+/*         **************************  
+            Base
+           ************************** */
+
+.parallax-container {
+      height: 450px;
+}
+
+#z1 h1 {
+	font-size: 200%;
+}
+
+#z2 h1 {
+	font-size: 200%;
+}
+
+.homep {
+	font-size: 130%;
+}
+
+#f1 h3 {
+	font-size: 200%;
+}
+
+#f2 h3 {
+	font-size: 200%;
+}
+
+nav {
+	font-family: 'Libre Baskerville', serif;
+}
+
+.row {
+	font-family: 'Lato', sans-serif;
+}
+
+.homeh2 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 250%;
+}
+
+#f1 h3 {
+	font-size: 200%;
+	font-family: 'Libre Baskerville', serif;
+}
+
+#f1 p {
+	font-size: 130%;
+	font-family: 'Lato', sans-serif;
+}
+
+#f2 p {
+	font-size: 130%;
+	font-family: 'Lato', sans-serif;
+}
+
+#f1 ul {
+	font-size: 130%;
+	font-family: 'Lato', sans-serif;
+}
+
+#f1 li {
+    list-style-type: circle;
+}
+
+#f2 ul {
+	font-size: 130%;
+	font-family: 'Lato', sans-serif;
+}
+
+#f2 li {
+    list-style-type: circle;
+}
+
+/*         **************************  
+            Modules
+           ************************** */
+
+
+/*         **************************  
+            Layout
+           ************************** */
+
+.homeh2 {
+	text-align: center;
+}
+
+#z1 {
+	margin-left: 8%;
+}
+
+#z2 {
+	margin-right: 8%;
+}
+
+#f1 ul {
+    padding-left: 20px;
+}
+
+#f2 ul {
+    padding-left: 20px;
+}
+
+
+/*         **************************  
+            State
+           ************************** */
+
+@media (max-width: 390px) {
+#z1 {
+	margin-left: none;
+}
+
+#z2 {
+	margin-right: none;
+}
+
+}
