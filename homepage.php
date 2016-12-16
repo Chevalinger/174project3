@@ -17,7 +17,7 @@
 	<?php include 'inc/nav.inc'; ?>
 
 	 <div class="parallax-container valign-wrapper">
-      <div class="parallax"><img src="images/parallax1.png"></div>
+      <div class="parallax"><img src="images/parallax1.png" alt="parallax1"></div>
     </div>
 
 <div class="row">
@@ -33,7 +33,7 @@
 
 
 <div class="parallax-container valign-wrapper">
-   <div class="parallax"><img src="images/parallax2.png"></div>
+   <div class="parallax"><img src="images/parallax2.png" alt="parallax2"></div>
 </div>
 
 
@@ -69,6 +69,7 @@
 		<li><span class="#a5d6a7 green lighten-3">Volunteer of Language Exchange Program</span></li>
 		<li>Volunteer of Chinese Corner</li>
 		<li>Volunteer Teacher as the English Oral Club Leader</li>
+		<li>And more coming...</li>
 	</ul>
 
 </div><!--.sec2-1 col l6 s12-->
@@ -79,12 +80,18 @@
 
 	<h3>Supporting Skills</h3>
 
+	<figure>
+	<img src="images/image1.jpg" alt="food">
+	<figcaption>Photography&Foodtasting</figcaption>
+    </figure>
+
+	<figure>
+	<img src="images/image2.jpg" alt="travel">
+	<figcaption>Travel in Asia</figcaption>
+    </figure>
 
 </aside>
 </div><!--.homesec2-->
-
-
-
 
 <script>
 $( document ).ready(function(){})
