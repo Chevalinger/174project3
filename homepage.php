@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html>
+<html lang="en">
 
 <head>
 
@@ -22,13 +22,21 @@
 
 <div class="row">
 	<div class="col l5 s10" id="z1">
+
 		<h1>Personal Information</h1>
+
 		<p class="homep">My name is Ling Li. I am currently a student (Senior) from University of Rochester. I plan to go to graduate school after college. My dream program is something similar to <span class="#a5d6a7 green lighten-3">East Asian Studies.</span> </p>
+	
 	</div>
+
 	<div class="col l5 s10" id="z2">
+
 		<h1>Other Things</h1>
+
 		<p class="homep">My hobby is listening to music, <span class="#a5d6a7 green lighten-3">teaching Chinese language and culture</span>, playing computer games and learning new languges. For sports, I can play badminton and skiing. Rochester is full of snow :)</p>
+	
 	</div>
+
 </div><!--.row-->
 
 
@@ -38,6 +46,7 @@
 
 
 <div class="row homesec2">
+
 <h2 class="homeh2">Major accomplishments</h2>
 
 <article class="col l8">
@@ -81,13 +90,17 @@
 	<h3>Supporting Skills</h3>
 
 	<figure>
+
 	<img src="images/image1.jpg" alt="food">
 	<figcaption>Photography&Foodtasting</figcaption>
+
     </figure>
 
 	<figure>
+
 	<img src="images/image2.jpg" alt="travel">
 	<figcaption>Travel in Asia</figcaption>
+
     </figure>
 
 </aside>
