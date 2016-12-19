@@ -28,6 +28,7 @@
 	<?php include 'inc/nav.inc'; ?>
 
 	 <div id="gallery">
+        <img data-src="images/slide.png" alt="webpage-summary">
         <img data-src="images/online1.png" alt="webpage1">
         <img data-src="images/online2.png" alt="webpage2">
         <img data-src="images/online3.png" alt="webpage3">
@@ -108,6 +109,8 @@ $( document ).ready(function(){})
         }); // end of ready();
 
     </script>
+
+<script src="js/menu-highlighter.js"></script>
 
 </body>
 

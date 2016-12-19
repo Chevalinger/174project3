@@ -6,15 +6,15 @@
 
 
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li class="nav"><a href="homepage.php">Home</a></li>
-          <li class="nav"><a href="portfolio.php">Portfolio</a></li>
-          <li class="nav"><a href="contactform.php">Contact Form</a></li>
+          <li><a href="homepage.php">Home</a></li>
+          <li><a href="portfolio.php">Portfolio</a></li>
+          <li><a href="contactform.php">Contact Form</a></li>
       </ul>
 
       <ul class="side-nav" id="mobile-demo">
-          <li class="nav"><a href="homepage.php">Home</a></li>
-          <li class="nav"><a href="portfolio.php">Portfoio</a></li>
-          <li class="nav"><a href="contactform.php">Contact Form</a></li>
+          <li><a href="homepage.php">Home</a></li>
+          <li><a href="portfolio.php">Portfolio</a></li>
+          <li><a href="contactform.php">Contact Form</a></li>
       </ul>
 
     </div>

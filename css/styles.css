@@ -88,6 +88,15 @@ nav {
 	text-align: center;
 }
 
+.entry h1 {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 200%;
+}
+
+.container {
+	width: 80%;
+}
+
 /*         **************************  
             Modules
            ************************** */
@@ -147,6 +156,11 @@ nav {
 .pattern a:hover {
 	color: #8FBC8F;
 	background-color: #FFFFF0;
+}
+
+.current {
+	background-color: #8FBC8F;
+	color: white;
 }
 
 @media (max-width: 390px) {
