@@ -40,12 +40,8 @@
             document.myForm.phone.focus() ;
             return false;
          }
-         
-      }
 
-      function validateEmail()
-      
-      {
+         {
          var emailID = document.myForm.email.value;
          atpos = emailID.indexOf("@");
          dotpos = emailID.lastIndexOf(".");
@@ -58,7 +54,8 @@
          }
          return( true );
       }
-
+         
+      }
          //-->
       </script>
 
