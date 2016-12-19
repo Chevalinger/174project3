@@ -6,13 +6,13 @@
 
 
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li><a href="homepage.php">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li><a href="portfolio.php">Portfolio</a></li>
           <li><a href="contactform.php">Contact Form</a></li>
       </ul>
 
       <ul class="side-nav" id="mobile-demo">
-          <li><a href="homepage.php">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li><a href="portfolio.php">Portfolio</a></li>
           <li><a href="contactform.php">Contact Form</a></li>
       </ul>

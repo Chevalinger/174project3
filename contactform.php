@@ -102,7 +102,7 @@
 
 		<br>
 
-        <div><a href="homepage.php">Click Here and Go Back</a></div>
+        <div><a href="index.php">Click Here and Go Back</a></div>
 
     </div><!--.container-->
 
