@@ -125,14 +125,6 @@ nav {
 	text-align: center;
 }
 
-#z1 {
-	margin-left: 8%;
-}
-
-#z2 {
-	margin-right: 8%;
-}
-
 #f1 ul {
     padding-left: 20px;
 }
@@ -164,22 +156,14 @@ nav {
 }
 
 @media (max-width: 390px) {
-#z1 {
-	margin-left: none;
-}
-
-#z2 {
-	margin-right: none;
-	padding-left: 40px;
-}
 
 .pattern p {
-	margin-left: none;
-	margin-right: none;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 .pattern a {
-	margin-left: none;
+	margin-left: 0px;
 }
 
 }

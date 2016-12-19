@@ -21,7 +21,7 @@
     </div>
 
 <div class="row">
-	<div class="col l5 s10" id="z1">
+	<div class="col l6 s12" id="z1">
 
 		<h1>Personal Information</h1>
 
@@ -29,7 +29,7 @@
 	
 	</div>
 
-	<div class="col l5 s10" id="z2">
+	<div class="col l6 s12" id="z2">
 
 		<h1>Other Things</h1>
 
