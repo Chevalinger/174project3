@@ -20,7 +20,9 @@
       <div class="parallax"><img src="images/parallax1.png" alt="parallax1"></div>
     </div>
 
-<div class="row">
+    <div class="container">
+
+    <div class="row">
 	<div class="col l6 s12" id="z1">
 
 		<h1>Personal Information</h1>
@@ -39,11 +41,14 @@
 
 </div><!--.row-->
 
+</div><!--.container-->
+
 
 <div class="parallax-container valign-wrapper">
    <div class="parallax"><img src="images/parallax2.png" alt="parallax2"></div>
 </div>
 
+<div class="container">
 
 <div class="row homesec2">
 
@@ -105,6 +110,8 @@
 
 </aside>
 </div><!--.homesec2-->
+
+</div><!--.container-->
 
 <script>
 $( document ).ready(function(){})
